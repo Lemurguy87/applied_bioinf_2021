@@ -1,0 +1,68 @@
+Started analysis of P14459_101_S1_L004_R1_001.fastq.gz
+Approx 5% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 10% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 15% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 20% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 25% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 30% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 35% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 40% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 45% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 50% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 55% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 60% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 65% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 70% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 75% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 80% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 85% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 90% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Approx 95% complete for P14459_101_S1_L004_R1_001.fastq.gz
+Analysis complete for P14459_101_S1_L004_R1_001.fastq.gz
+Started analysis of P14459_101_S1_L004_R2_001.fastq.gz
+Approx 5% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 10% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 15% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 20% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 25% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 30% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 35% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 40% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 45% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 50% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 55% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 60% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 65% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 70% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 75% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 80% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 85% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 90% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Approx 95% complete for P14459_101_S1_L004_R2_001.fastq.gz
+Analysis complete for P14459_101_S1_L004_R2_001.fastq.gz
+Started analysis of P14459_102_S2_L004_R1_001.fastq.gz
+Approx 5% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 10% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 15% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 20% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 25% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 30% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 35% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 40% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 45% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 50% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 55% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 60% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 65% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 70% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 75% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 80% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 85% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 90% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Approx 95% complete for P14459_102_S2_L004_R1_001.fastq.gz
+Exception in thread "Thread-1" java.lang.OutOfMemoryError: Java heap space
+	at uk.ac.babraham.FastQC.Utilities.QualityCount.<init>(QualityCount.java:33)
+	at uk.ac.babraham.FastQC.Modules.PerTileQualityScores.processSequence(PerTileQualityScores.java:281)
+	at uk.ac.babraham.FastQC.Analysis.AnalysisRunner.run(AnalysisRunner.java:89)
+	at java.lang.Thread.run(Thread.java:748)
+slurmstepd: error: *** JOB 23034871 ON r82 CANCELLED AT 2021-11-16T10:33:17 DUE TO TIME LIMIT ***
